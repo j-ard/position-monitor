@@ -1,0 +1,19 @@
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --rail: #0a0e14;
+  --strip: #010409;
+  --border: #21262d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --dim: #6e7681;
+  --up: #3fb950;
+  --down: #f85149;
+  --warn: #d29922;
+  --armed: #b62324;
+  --ctl: #30363d;
+  --flash-up: rgba(63, 185, 80, 0.12);
+  --flash-down: rgba(248, 81, 73, 0.12);
+  --mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --ui: system-ui, -apple-system, sans-serif;
+}
