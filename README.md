@@ -1,5 +1,8 @@
 # Live Position Monitor
 
+## Loom Demo
+https://www.loom.com/share/4bd45d9df4f14c9d8405fa77a1916f06
+
 ## What
 
 A single-screen live position monitor for a trader watching a book of US-equity positions tick
